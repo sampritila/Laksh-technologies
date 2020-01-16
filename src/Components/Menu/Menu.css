@@ -1,0 +1,42 @@
+.container{
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+    background-color: darkgray;
+    color: #ffffff;
+    min-height: 60px;
+    
+   
+}
+
+nav{
+    float: right;
+    margin-top: 20px;
+    
+    
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+nav li{
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+nav a:hover{
+    color: #cccccc;
+    font-weight: bold;
+}
+nav a{
+    font-size: 18px;
+    text-decoration: none;
+    
+}
+
+
+
