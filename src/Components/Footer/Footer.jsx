@@ -4,7 +4,7 @@ import React from "react";
 function template() {
   return (
     <div className="footer">
-      <p> &copy;Copyrights reserved 2019</p>
+      <p> &copy;Copyrights reserved 2020</p>
     </div>
   );
 };
